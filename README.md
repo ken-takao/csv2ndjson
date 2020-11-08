@@ -1,2 +1,5 @@
 # csv2ndjson
-csv file convert to ndjson file by lambda
+CSVをNDJSONに変換するためのスクリプトです
+Lambdaで動作させることを前提にしています
+
+Snowflakeの外部テーブルを利用する際に是非ご利用ください
